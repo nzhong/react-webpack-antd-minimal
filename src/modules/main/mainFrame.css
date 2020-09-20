@@ -1,0 +1,13 @@
+.logo {
+  height: 36px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+#mainContent {
+  margin-top: 2px; /* Add a top margin to avoid content overlay */
+}
